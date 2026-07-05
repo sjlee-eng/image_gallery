@@ -1,0 +1,9 @@
+# git_monitor runtime artifacts
+monitor.log
+monitor_history.json
+config.json
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/

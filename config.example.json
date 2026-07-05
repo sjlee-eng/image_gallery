@@ -1,0 +1,15 @@
+{
+  "interval": 60,
+  "auto_pull": true,
+  "ff_only": true,
+  "history": "monitor_history.json",
+  "log_file": "monitor.log",
+  "repos": [
+    {
+      "path": ".",
+      "branch": "main",
+      "remote": "origin",
+      "name": "image_gallery"
+    }
+  ]
+}
